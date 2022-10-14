@@ -1,0 +1,21 @@
+table{
+    border: 5px solid;
+    border-collapse: collapse;
+    color: black;
+    border-width: 2px;
+}
+th{
+    border: 5px solid;
+    border-collapse: collapse;
+    color: black;
+    border-width: 2px;
+    text-align:center;
+}
+td{
+    border: 5px solid;
+    border-collapse: collapse;
+    color: black;
+    border-width: 2px;
+    text-align: center;
+}
+
